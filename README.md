@@ -5,12 +5,6 @@ I'm a junior developer.
 
 ## Languages
 
-| Language | Level |
-| --- | --- |
-| Python | ★★★★★ |
-| HTML/CSS | ★★★☆☆ |
-| JavaScript | ★★★☆☆ |
-| C++ | ★★★★☆ |
-| Java | ★★☆☆☆ |
-| PHP | ★★☆☆☆ |
-| SQL | ★★★★☆ |
+| *Language* | Python | HTML/CSS | JavaScript | C++ | Java | PHP | SQL |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| *Level* | ★★★★★ | ★★★☆☆ | ★★★☆☆ | ★★★★☆ | ★★★☆☆ | ★★★☆☆ | ★★★★☆ |
