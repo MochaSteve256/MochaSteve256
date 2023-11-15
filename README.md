@@ -5,6 +5,8 @@ I'm a junior developer.
 
 ## Languages
 
-| *Language* | Python | HTML/CSS | JavaScript | C++ | Java | PHP | SQL |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| *Level* | ★★★★★ | ★★★☆☆ | ★★★☆☆ | ★★★★☆ | ★★★☆☆ | ★★★☆☆ | ★★★★☆ |
+| *CodingLanguage* | Python | HTML/CSS/JS | C++ | Java | PHP | SQL |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Experience* | ★★★★★ | ★★★☆☆ | ★★★★☆ | ★★☆☆☆ | ★★☆☆☆ | ★★★★☆ |
+| *CurrentlyDeveloping* | ✅ | ❌  | ✅ | ❌ | ❌ | ❌ |
+| *Frameworks/Libs/Apps* | Tk, matplotlib, numpy, mcpi, RPi, JSON, Kivy, Socket, ... | N/A | SFML, SDL, JSON for C++ | BlueJ | phpMyAdmin | MariaDB |
