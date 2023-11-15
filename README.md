@@ -2,6 +2,7 @@
 Hi, i'm MochaSteve. I'm a junior developer from Hamburg, Germany. Many of my projects are private, so you can't find much here.
 ## Quick Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochasteve256&layout=compact&theme=radical)
+
 ![Report Card](https://github-readme-stats.vercel.app/api/?username=mochasteve256&layout=compact&theme=radical)
 ## Programming Languages
 These are the languages i've worked with in the past:
