@@ -1,5 +1,5 @@
 # MochaSteve256
-Hi, i'm MochaSteve. I'm a junior developer from Hamburg, Germany. Many of my projects are private, so you can't find much here.
+Hi, i'm MochaSteve. I'm a junior developer from Hamburg, Germany. Many of my projects are private, so you won't find much here.
 ## Quick Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochasteve256&layout=compact&theme=radical)
 
@@ -8,8 +8,8 @@ Hi, i'm MochaSteve. I'm a junior developer from Hamburg, Germany. Many of my pro
 These are the languages i've worked with in the past:
 | *Language* | Python | HTML/CSS/JS | C++ | Java | PHP | SQL | C# |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| *Experience* | ★★★★★ | ★★★☆☆ | ★★★★☆ | ★★☆☆☆ | ★★☆☆☆ | ★★★★☆ | ★☆☆☆☆ |
 | *Frameworks/Libs/Apps* | Tk, matplotlib, numpy, mcpi, RPi, JSON, Kivy, Socket, Flask, ... | N/A | SFML, SDL, JSON for C++ | BlueJ | phpMyAdmin | MariaDB | Unity |
+| *Experience* | ★★★★★ | ★★★☆☆ | ★★★★☆ | ★★☆☆☆ | ★★☆☆☆ | ★★★★☆ | ★☆☆☆☆ |
 
 These are languages that i'm currently learning or that i wanna learn in the future:
 | *Language* | LinuxShell | BatchFile | Go | Kotlin | Rust |
