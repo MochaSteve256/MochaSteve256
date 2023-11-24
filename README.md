@@ -1,5 +1,6 @@
 # MochaSteve256
 Hi, i'm MochaSteve. I'm a junior developer from Hamburg, Germany.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochasteve256&layout=compact&theme=radical)
 ## Top Projects
 Here's a quick list of my coding projects (some (most :/ because of visibility) aren't finished yet):
