@@ -14,10 +14,5 @@ Here's a quick list of my coding projects (some aren't finished yet):
 These are the languages i've worked with in the past:
 | *Language* | Python | C++ | HTML/CSS/JS | Java | PHP | SQL | C# |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| *Frameworks/Libs/Apps* | Tk, matplotlib, numpy, mcpi, RPi, JSON, Kivy, Socket, Flask, PIL, ... | SFML, SDL2, JSON for C++ | N/A | BlueJ | PhpMyAdmin | MySQL, MariaDB, SQLite3, PhpMyAdmin | Unity |
-| *Experience* | ★★★★★ | ★★★★☆ | ★★☆☆☆ | ★★☆☆☆ | ★★☆☆☆ | ★★★★☆ | ★☆☆☆☆ |
-
-These are languages that i'm currently learning or that i wanna learn in the future:
-| *Language* | LinuxShell | BatchFile | Go | Rust |
-| --- | --- | --- | --- | --- |
-| *Progress* | ★☆☆☆☆ | ★☆☆☆☆ | ☆☆☆☆☆ | ☆☆☆☆☆ |
+| *Frameworks/Libs/Apps* | Tk, matplotlib, numpy, mcpi, RPi, JSON, Kivy, Socket, Flask, PIL, ... | SFML, SDL2, JSON for C++ | ReactJS | BlueJ | PhpMyAdmin | MySQL, SQLite3, PhpMyAdmin | Unity |
+| *Experience* | ★★★★★ | ★★★★☆ | ★★★☆☆ | ★★☆☆☆ | ★★☆☆☆ | ★★★★☆ | ★☆☆☆☆ |
