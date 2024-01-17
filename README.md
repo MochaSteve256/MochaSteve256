@@ -1,7 +1,7 @@
 # MochaSteve256
 Hi, i'm MochaSteve. I'm a junior developer from Germany.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochasteve256&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochasteve256&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)](#)
 ## Top Projects
 Here's a quick list of my coding projects (some aren't finished yet):
 - [FighterGame (release repo pending)](#)(link pending)
