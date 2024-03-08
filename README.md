@@ -1,7 +1,7 @@
 # MochaSteve256
 Hi, i'm MochaSteve. I'm a junior developer from Germany.
 
-I'm coding since 2019 ([Scratch](https://scratch.mit.edu/users/mini__games/) since 2015!) in these languages:
+I'm coding since 2019 in these languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochasteve256&layout=compact&langs_count=10&theme=radical&size_weight=0.65&count_weight=0.35)](#)
 ## Top Projects
