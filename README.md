@@ -13,7 +13,7 @@ Here's a quick list of my coding projects (some aren't finished yet):
 - [General discord bot (fun stuff and utilities)](https://github.com/MochaSteve256/Lynxify)
 ## Programming Languages
 These are the languages i've worked with in the past:
-| *Language* | Python | C++ | HTML/ CSS/JS/TS | Java | PHP | SQL | C# |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| *Frameworks/ Libs/Apps* | Tk, matplotlib, numpy, mcpi, RPi, JSON, Kivy, Socket, Flask, PIL, ... | SFML, SDL2, JSON for C++ | React, Vite, Three.js | BlueJ, Swing | N/A | MySQL, MariaDB, SQLite3, PhpMyAdmin | Unity |
-| *Experience* | ★★★★★ | ★★★★☆ | ★★★☆☆ | ★★☆☆☆ | ★★☆☆☆ | ★★★★☆ | ★☆☆☆☆ |
+| *Language* | Python | C++ | HTML/ CSS/JS/TS | Java | PHP | SQL |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Frameworks/ Libs/Apps* | Tk, matplotlib, numpy, mcpi, RPi, JSON, FastAPI, Socket, Flask, PIL, ... | SFML, SDL2, JSON for C++, EvolutionNet | React, Vite, Three.js | BlueJ, Swing | N/A | MySQL, PhpMyAdmin, Postgres, SQLite3, MongoDB |
+| *Experience* | ★★★★★ | ★★★★☆ | ★★★☆☆ | ★★☆☆☆ | ★★☆☆☆ | ★★★★☆ |
